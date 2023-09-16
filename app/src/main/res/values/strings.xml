@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MedBot</string>
+    <string name="mic_button">mic button</string>
+    <string name="send_button">send button</string>
 </resources>
